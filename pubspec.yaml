@@ -1,0 +1,46 @@
+name: sijago_android
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  get: ^4.6.6
+  # face_camera: ^0.1.0
+  google_fonts: ^6.2.1
+  google_nav_bar: ^5.0.6
+  line_icons: ^2.0.3
+  flutter_svg: ^2.0.10+1
+  auto_size_text: ^3.0.0
+  fl_chart: ^0.66.2
+  percent_indicator: ^4.2.3
+  firebase_core: ^2.28.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.16.0
+  shared_preferences: ^2.2.2
+  camera: ^0.10.5+9
+  image_picker: ^1.0.7
+  permission_handler: ^11.3.0
+  sqflite: ^2.3.3
+  firebase_storage: ^11.7.1
+  http: ^1.2.1
+  intl: ^0.19.0
+  shimmer: ^3.0.0
+  connectivity_plus: ^5.0.2
+  google_mlkit_text_recognition: ^0.13.0
+  google_ml_kit: ^0.18.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/
+  - assets/icons/

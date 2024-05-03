@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "851794113902",
+    "firebase_url": "https://pnm-sijago-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pnm-sijago",
+    "storage_bucket": "pnm-sijago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851794113902:android:f44f149874a3c448ef3d7f",
+        "android_client_info": {
+          "package_name": "com.example.sijago_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUP6Bpac0ZfE1WbqHPIg5Tgo2Rr8LGCHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851794113902:android:04f58f8feccd3479ef3d7f",
+        "android_client_info": {
+          "package_name": "com.example.sijago_revisi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUP6Bpac0ZfE1WbqHPIg5Tgo2Rr8LGCHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
